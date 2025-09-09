@@ -1,0 +1,2 @@
+# KKA-X-SEMESTER-1
+Praktikum MAPEL KECERDASAN ARTIFISIAL kelas X semester 1
